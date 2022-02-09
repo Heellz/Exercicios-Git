@@ -2,7 +2,7 @@
 
 > ## Links uteis
 >
-> - [`Abra o html`](https://github.com/Heellz/Exercicios-Git/exercicio.html)
+> - [`Abra o html`](exercicio.html)
 >
 > ~~~yml
 >- Exercicio 1 ✅
